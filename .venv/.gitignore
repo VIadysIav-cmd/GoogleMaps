@@ -1,0 +1,25 @@
+# created by virtualenv automatically
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# PyCharm
+.idea/
+*.iml
+
+# Virtual environment
+.venv*/
+env/
+venv/
+
+# HTML/сборки
+*.html
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
