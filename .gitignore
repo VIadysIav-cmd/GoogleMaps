@@ -1,0 +1,17 @@
+# Virtual environment
+.venv*/
+env/
+venv/
+.idea/
+
+# HTML/сборки
+*.html
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
